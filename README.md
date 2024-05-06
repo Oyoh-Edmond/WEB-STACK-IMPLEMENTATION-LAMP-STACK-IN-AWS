@@ -19,4 +19,4 @@ We run the `chmod` command command to change file access permissions such as rea
 Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) both are protocols of the Transport Layer. 
 
 
-### Cick here to Practise basic editing text with [Vim](https://www.openvim.com/)
+### Cick here to Practise basic text editing with [Vim](https://www.openvim.com/)
