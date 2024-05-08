@@ -20,3 +20,19 @@ Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) both are pr
 
 
 ### Cick here to Practise basic text editing with [Vim](https://www.openvim.com/)
+
+
+
+# Assignment LAMP STACK project
+## Prerequisites
+
+- AWS Account
+- Launch EC2 with Ubuntu 
+
+## Setup a LAMP Stack on Ubuntu
+- Install Apache & Update Firewall
+- Install MySQL Database
+- Install PHP
+- Setup Virtual Webhost
+- Test PHP Processing
+- Test Database Connection
